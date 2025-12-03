@@ -7,7 +7,7 @@
 
 ## 🐾 Running Demo (Version 1)
 
-<img src="./assets/Cat_run_version1g.gif" width="480">
+<img src="./assets/Cat_run_version1.gif" width="480">
 
 
 ---
