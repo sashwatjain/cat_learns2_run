@@ -5,11 +5,10 @@
 
 ---
 
-## 🎥 Demo
+## 🐾 Running Demo (Version 1)
 
-```
-![Cat Running Demo](./assets/Cat_run_version1g.gif)
-```
+<img src="./assets/Cat_run_version1g.gif" width="480">
+
 
 ---
 
