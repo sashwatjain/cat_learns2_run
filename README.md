@@ -8,7 +8,7 @@
 ## 🎥 Demo
 
 ```
-![Cat Running Demo](./assets/cat_running.gif)
+![Cat Running Demo](./assets/Cat_run_version1g.gif)
 ```
 
 ---
