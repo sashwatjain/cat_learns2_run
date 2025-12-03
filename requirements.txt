@@ -1,0 +1,10 @@
+pybullet
+numpy
+torch
+stable-baselines3
+gymnasium
+matplotlib
+tqdm
+
+
+# pip install -r requirements.txt

@@ -1,0 +1,31 @@
+# Python virtual environment
+cat_env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE project files
+.vscode/
+.idea/
+
+# Environment / configuration
+.env
+*.env
+
+# Logs
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter checkpoints (if you add notebooks later)
+.ipynb_checkpoints/
